@@ -1,0 +1,2 @@
+# py_create_appicon
+根据大于1024尺寸的图片生成一系列的appicon
